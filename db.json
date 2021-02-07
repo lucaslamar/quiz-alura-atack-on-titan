@@ -1,39 +1,64 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://preview.redd.it/gy8918f11p551.png?width=960&crop=smart&auto=webp&s=343a21e39595e699d5bcfcd7fbce524f4d023fc2",
+  "title": "Attack on Titan Quiz",
+  "description": "Por uma Paradis livre.",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://pm1.narvii.com/6558/227aee26d4d59cd52fca8e7b7daf90d6ee7a6813_hq.jpg",
+      "title": "Qual nome da mãe de Eren?",
+      "description": "Achou que ia ser fácíl né?",
+      "answer": 1,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Umir Yeager",
+        "Carla Yeager",
+        "Dina Yeager"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/69/Eren_Yeager_character_image.png/revision/latest/scale-to-width-down/350?cb=20200910221354",
+      "title": "Qual foi há alcunha dada a Eren, pelos Marleanos?",
+      "description": "Uma curiosidade bacana, vamos ver se você acerta:",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Usurpador",
+        "Destruidor",
+        "Salvador"
+      ]
+    },
+    {
+      "image": "https://gph.is/1aeSyZY",
+      "title": "Qual sobrenome de Mikasa?",
+      "description": "Se você usar a lógica, essa está fácil!",
+      "answer": 0,
+      "alternatives": [
+        "Ackerman",
+        "Yeager",
+        "Fritriz"
+      ]
+    },
+    {
+      "image": "https://images8.alphacoders.com/919/thumb-1920-919228.png",
+      "title": "Qual nome do irmão de Eren?",
+      "description": "Essa eu quiz moer um pouco seus neurônios!",
+      "answer": 2,
+      "alternatives": [
+        "Mikasa",
+        "Armin",
+        "Zeke Zeke"  
       ]
     }
   ],
   "external": [
-    ""
+    "https://lotr-quiz.filipe1309.vercel.app/",
+    "https://imersao-react-nextjs-git-main.matheusbronca.vercel.app/",
+    "https://quiz-justiceleague.levi-magny.vercel.app/",
+    "https://bbbquiz.kpmnta.vercel.app/"
   ],
   "theme": {
     "colors": {
-      "primary": "#0d47a1",
-      "secondary": "#29b6f6",
-      "mainBg": "#171B35",
+      "primary": "#e0b06e",
+      "secondary": "#4e2c23",
+      "mainBg": "#2b1812",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
